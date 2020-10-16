@@ -1,0 +1,95 @@
+.bottom-line {
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 10px;
+    font-family: PingFang SC;
+    font-weight: 400;
+    line-height: 14px;
+    color: #C2C7D1;
+    opacity: 1;
+}
+
+.from-sty.van-cell.van-field {
+    display: block;
+
+    .van-cell__title.van-field__label {
+        font-size: 16px;
+        font-weight: 500;
+        color: #4A5063;
+        opacity: 1;
+    }
+
+    .van-cell__value.van-field__value {
+        // background: red;
+        margin-top: 15px;
+
+        .van-field__body {
+
+            // background: red;
+            .van-field__control {
+                margin-bottom: 10px;
+
+                // background: red;
+                &::placeholder {
+                    color: #9EA5B1;
+                }
+            }
+        }
+    }
+}
+
+.up {
+    .van-uploader__preview-delete {
+        position: absolute;
+        top: 0;
+        right: 0px;
+        width: 18px;
+        height: 18px;
+        background-color: #4C6EF5;
+        border-radius: 50%;
+
+        .van-uploader__preview-delete-icon {
+            position: absolute;
+            top: 1px;
+            right: 1px;
+            color: #fff;
+            color: #ffffff;
+            font-size: 16px;
+            -webkit-transform: scale(0.5);
+            transform: scale(0.5);
+        }
+    }
+
+    .van-image.van-uploader__preview-image {
+        border-radius: 8px;
+    }
+}
+
+
+
+
+.check-audit {
+    margin-top: 20px;
+
+    .van-checkbox {
+        display: block;
+
+        .van-checkbox__icon {
+            display: inline-block;
+            vertical-align: 4;
+        }
+
+        .van-checkbox__label {
+            vertical-align: top;
+            margin-left: 10px;
+            display: inline-block;
+            width: 88%;
+            font-weight: 400;
+            color: #4A5063;
+            line-height: 20px;
+
+
+        }
+    }
+}

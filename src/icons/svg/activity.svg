@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.567" height="25" viewBox="0 0 26.567 25">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-1, .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.067" y1="0.177" x2="0.705" y2="0.653" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8cc10"/>
+      <stop offset="1" stop-color="#ffb100"/>
+    </linearGradient>
+  </defs>
+  <g id="组_4554" data-name="组 4554" transform="translate(0 0.273)">
+    <path id="路径_2965" data-name="路径 2965" class="cls-1" d="M259.842,3.914h12.427a.4.4,0,0,0,.34-.176A2.417,2.417,0,0,0,272.193.5a3.173,3.173,0,0,0-4.155,0l-1.989,1.788L264.1.5a3.16,3.16,0,0,0-4.142,0,2.4,2.4,0,0,0-.416,3.248.39.39,0,0,0,.34.164" transform="translate(-252.766 0)"/>
+    <path id="路径_2966" data-name="路径 2966" class="cls-2" d="M14.24,294.645a.957.957,0,0,1-1.914,0V283.426a.957.957,0,0,1,1.914,0Zm10-16.179H2.329a2.108,2.108,0,1,0,0,4.193h.453v10.828a3.249,3.249,0,0,0,3.3,3.173H20.5a3.236,3.236,0,0,0,3.286-3.173V282.658h.453a2.108,2.108,0,1,0,0-4.193Z" transform="translate(0 -271.933)"/>
+  </g>
+</svg>
